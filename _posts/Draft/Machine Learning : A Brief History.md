@@ -6,6 +6,7 @@ The idea is simple! Imagine this timeline as a graph with a root node as "Statis
 
 Disclaimer: [https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy](https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy)
 
+
 ## Contents
 1. The very beginning - 1950s
 2. 1960s - The Bayesian Era
@@ -26,6 +27,6 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbLTIxMjYxNjgyMTQsNzgyNjAzOTIsLTgzMDI4ODcwN119
-
+J5IjpbLTgxODE2MzAxMiwtMjEyNjE2ODIxNCw3ODI2MDM5Miwt
+ODMwMjg4NzA3XX0=
 -->
