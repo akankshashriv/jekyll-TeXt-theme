@@ -4,6 +4,8 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 
 The idea is simple! Imagine this timeline as a graph with a root node as "Statistics". Statistics led to Regression, Bayesian ML and, over time, Deep Learning. We will traverse this graph and learn the math.
 
+Disclaimer: [https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy](https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy)
+
 ## Contents
 1. The very beginning - 1950s
 2. 1960s - The Bayesian Era
@@ -24,5 +26,6 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbNzgyNjAzOTIsLTgzMDI4ODcwN119
+J5IjpbLTIxMjYxNjgyMTQsNzgyNjAzOTIsLTgzMDI4ODcwN119
+
 -->
