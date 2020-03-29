@@ -2,7 +2,10 @@ Before the 1950s, we already had the modern binary system, Ada Lovelace's first 
 
 With the advent of these questions, 1950s would see the first ever artificial neural network created. But before that, let's look at what tools at hand we already had by then.
 
-# Statistics
+# Regression
+# Logistical Regression
+# Bayes Theorem
+# R
 
 
 # References
@@ -13,7 +16,7 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJQcmVjdXJzb3JzIGJlZm9yZSAxOTUwc1wiXG5zaWRlYmFy
-OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOlsxMTY0Mz
-QwNjg4LC01NjQ1NTIyOTYsLTE2NzE2MjYxNCwtNDg3NTY4NDc2
-XX0=
+OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOls1MzgwND
+I0NDEsLTU2NDU1MjI5NiwtMTY3MTYyNjE0LC00ODc1Njg0NzZd
+fQ==
 -->
