@@ -5,12 +5,13 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 ## Contents
 1. The very beginning - 1950s [PAC Model, VC Theory, Perceptrons]
 2. 1960s - The Bayesian Era
-3. 
+3. The AI Winter of 1970s
+4. 
 
 > *The name of the series is inspired by my current favorite [non-fiction series on humanity](https://www.goodreads.com/book/show/34066641-sapiens-and-homo-deus) by Yuval Noah Harari.*
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMTkwNjYwODUxM119
+J5IjpbLTE3NDk5NjMxOTRdfQ==
 -->
