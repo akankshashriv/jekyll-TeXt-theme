@@ -1,4 +1,4 @@
-Before the 1950s, we already had the modern binary system, Ada Lovelace's first computer program and Turing's Universal Machine. By 1940s, there already was curiosity in understanding the human brain. Neurophysiologists Warren McCulloch and Walter Pitts published their work on "*A Logical Calculus of The Ideas Immanent in Nervous Activity*" in 1943 which described the behavior of human neurons in terms of propositional logic and modeled a "neuron net" as electrical circuits. In parallel, Alan Turing 
+Before the 1950s, we already had the modern binary system, Ada Lovelace's first computer program and Turing's Universal Machine. By 1940s, there already was curiosity in understanding the human brain. Neurophysiologists Warren McCulloch and Walter Pitts published their work on "*A Logical Calculus of The Ideas Immanent in Nervous Activity*" in 1943 which described the behavior of human neurons in terms of propositional logic and modeled a "neuron net" as electrical circuits. Meanwhile, Alan Turing 
 
 
 # References
@@ -9,6 +9,6 @@ Before the 1950s, we already had the modern binary system, Ada Lovelace's first 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJQcmVjdXJzb3JzIGJlZm9yZSAxOTUwc1wiXG5zaWRlYmFy
-OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOlstMTY1OD
-c5NzcxMywtMTY3MTYyNjE0LC00ODc1Njg0NzZdfQ==
+OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOlstMzEwOD
+M5MDk5LC0xNjcxNjI2MTQsLTQ4NzU2ODQ3Nl19
 -->
