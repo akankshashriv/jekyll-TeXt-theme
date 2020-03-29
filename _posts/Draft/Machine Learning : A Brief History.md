@@ -1,4 +1,4 @@
-In this series of posts, I will explore the theory and applications of machine learning from a historical lens. I have often found myself intrigued by how the current state-of-the-art algorithms came to be and how the field evolved. This lead me to 
+In this series of posts, I will explore the theory and applications of machine learning from a historical lens. I have often found myself intrigued by how the current state-of-the-art algorithms came to be and how the field evolved. It's also a good idea to understand the evolution of a field in order to develop a solid theoretical foundation 
 
 As such, 
 
@@ -8,5 +8,5 @@ As such,
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMjE0NDg3NDYyNl19
+J5IjpbLTkxNDE4ODA2M119
 -->
