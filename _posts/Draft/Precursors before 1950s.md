@@ -5,7 +5,8 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 # Regression
 # Logistical Regression
 # Bayes Theorem
-# R
+# Bayesian Regression
+# 
 
 
 # References
@@ -16,7 +17,7 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJQcmVjdXJzb3JzIGJlZm9yZSAxOTUwc1wiXG5zaWRlYmFy
-OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOls1MzgwND
-I0NDEsLTU2NDU1MjI5NiwtMTY3MTYyNjE0LC00ODc1Njg0NzZd
-fQ==
+OlxuICBuYXY6IGxheW91dHNcbiIsImhpc3RvcnkiOlsxODAyNz
+E2NjY1LC01NjQ1NTIyOTYsLTE2NzE2MjYxNCwtNDg3NTY4NDc2
+XX0=
 -->
