@@ -5,7 +5,7 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 The idea is simple! Imagine this timeline as a graph with a root node as "Statistics". Statistics led to Regression, Bayesian ML and, over time, Deep Learning. We will traverse this graph and learn the math.
 
 ## Contents
-1. The very beginning - 1950s [PAC Model, VC Theory, Perceptrons]
+1. The very beginning - 1950s
 2. 1960s - The Bayesian Era
 3. The AI Winter of 1970s
 4. 1980s see a resurgence
@@ -24,5 +24,5 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMTA3ODUxODQ4OCwtODMwMjg4NzA3XX0=
+J5IjpbNzgyNjAzOTIsLTgzMDI4ODcwN119
 -->
