@@ -2,6 +2,8 @@ In this series of posts, I will explore the theory and applications of machine l
 
 This series focuses on the timeline of Machine Learning up to the decade 2010s - primary contributions and seminal papers that have given us algorithms like Regression, Decision trees, and Neural Networks.
 
+The idea is simple - know how an algorithm was developed, understand the theory and applications at the same
+
 ## Contents
 1. The very beginning - 1950s [PAC Model, VC Theory, Perceptrons]
 2. 1960s - The Bayesian Era
@@ -13,5 +15,5 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbLTE3NDk5NjMxOTRdfQ==
+J5IjpbLTExMDY2OTEzMDVdfQ==
 -->
