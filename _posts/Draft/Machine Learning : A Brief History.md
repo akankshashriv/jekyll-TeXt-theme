@@ -24,11 +24,15 @@ For those who want quick references to different algorithms.
 2. 
 3. 
 
+## References
+1. A. L. Samuel, "Some Studies in Machine Learning Using the Game of Checkers," in _IBM Journal of Research and Development_, vol. 3, no. 3, pp. 210-229, July 1959.
+2. 
+
 > *The name of the series is inspired by my current favorite [non-fiction series on humanity](https://www.goodreads.com/book/show/34066641-sapiens-and-homo-deus) by Yuval Noah Harari.*
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbODY3MDU5NjU4LDEwMDYzMDcxMTgsLTIxMjYxNjgyMTQs
-NzgyNjAzOTIsLTgzMDI4ODcwN119
+J5IjpbLTEyNjAzMzc0OTMsMTAwNjMwNzExOCwtMjEyNjE2ODIx
+NCw3ODI2MDM5MiwtODMwMjg4NzA3XX0=
 -->
