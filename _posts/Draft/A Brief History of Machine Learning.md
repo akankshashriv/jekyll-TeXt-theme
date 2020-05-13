@@ -1,5 +1,5 @@
 > ### Who is this for?
-> Anybody interested in learning more about Artificial Intelligence and Machine Learning, and how the field came about to
+> Anybody interested in learning more about Artificial Intelligence and Machine Learning, and how the field came about to be. Some parts of the posts requires some technical knowledge, specifically basic probability and calculus, but I have tried to add notes for someone who just wants overviews and not technical depth. You can find these notes in a blockquote like this one!
 
 In this series of posts, I will explore the theory and applications of machine learning from a historical lens. I have often found myself intrigued by how the current state-of-the-art algorithms came to be and how the field evolved. It's a good idea to understand the evolution of a field in order to develop a solid theoretical foundation.
 
@@ -53,5 +53,5 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMTQzMzAwMjQyLDk4OTY1NzE2NF19
+J5IjpbMjA1MjgzNjc5LDk4OTY1NzE2NF19
 -->
