@@ -39,7 +39,7 @@ For those who want quick references to different algorithms.
 15. SVM
 16. LSTM
 17. Boosting
-18. Unsupervis 
+18. Unsupervised Deep Learning 
 
 ## References
 1. A. L. Samuel, "Some Studies in Machine Learning Using the Game of Checkers," in _IBM Journal of Research and Development_, vol. 3, no. 3, pp. 210-229, July 1959.
@@ -50,7 +50,7 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbLTI1OTgxNDM0MSwtMjMwNjkxOTE4LC00NzU3Nzg0MTUs
-LTU1MzMwMTM5NiwxMDA2MzA3MTE4LC0yMTI2MTY4MjE0LDc4Mj
-YwMzkyLC04MzAyODg3MDddfQ==
+J5IjpbOTg5NjU3MTY0LC0yMzA2OTE5MTgsLTQ3NTc3ODQxNSwt
+NTUzMzAxMzk2LDEwMDYzMDcxMTgsLTIxMjYxNjgyMTQsNzgyNj
+AzOTIsLTgzMDI4ODcwN119
 -->
