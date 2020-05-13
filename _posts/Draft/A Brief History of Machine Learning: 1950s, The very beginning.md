@@ -1,4 +1,4 @@
-With the advent of these questions, 1950s would see the first ever artificial neural network created. But before that, let's look at what tools we already had at hand.
+What we all famously now know as "Turing test
 - Coinage of term AI
 
 # Turing's Learning Machine
@@ -13,5 +13,5 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 ---
 << Previous . . .   Next >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjkzODgwNl19
+eyJoaXN0b3J5IjpbMTM2Nzg2NzEzMSwxNDE2OTM4ODA2XX0=
 -->
