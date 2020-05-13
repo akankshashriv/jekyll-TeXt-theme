@@ -1,7 +1,7 @@
 > ### Who is this for?
-> Anybody interested in learning more about Artificial Intelligence and Machine Learning, and how the field came about to be. 
+> Anybody interested in learning more about Artificial Intelligence and/or Machine Learning, and how the field came about to be. 
 > 
->Some parts of the posts requires some technical knowledge, specifically basic probability and calculus. If you are somebody looking for just overviews and not technical know-hows, I have added notes in blockquotes like this one!
+>Some parts of the posts requires some technical knowledge, specifically basic probability and calculus. If you are somebody looking for just overviews and not technical know-hows, feel free to skip those parts.
 
 In this series of posts, I will explore the theory and applications of machine learning from a historical lens. I have often found myself intrigued by how the current state-of-the-art algorithms came to be and how the field evolved. It's a good idea to understand the evolution of a field in order to develop a solid theoretical foundation.
 
@@ -9,7 +9,7 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 
 The idea is simple! Imagine this timeline as a graph with a root node as "Statistics". Statistics led to Regression, Bayesian ML and, over time, Deep Learning. We will traverse this graph and learn the math.
 
-The term "Machine Learning" was famously coined by [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) in 1959 when he was working on computer checkers at IBM. Although research started in late 1940s, a fully developed framework in learning theory only took shape in 1980s with Valiant's work on PAC model and reinvention of Backpropagation algorithm. So, even though there were some breakthroughs between 1950-1970, the field was quite disjointed. Since 1990s, ML emerged as a promising field with commercial applications which has fuelled the research even further.
+The term "Machine Learning" was famously coined by [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) in 1959 when he was working on computer checkers at IBM. Although ML research had already started in late 1940s, a fully developed framework in learning theory only took shape in 1980s with Valiant's work on PAC model and reinvention of Backpropagation algorithm. So, even though there were some breakthroughs between 1950-1970, the field was quite disjointed. Since 1990s, ML emerged as a promising field with commercial applications which has fuelled the research even further.
 
 Let's have a look decade by decade.
 
@@ -55,5 +55,5 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMTE1MzA0OTY4NCw5ODk2NTcxNjRdfQ==
+J5IjpbMTQ3NzAyNjM0Niw5ODk2NTcxNjRdfQ==
 -->
