@@ -2,7 +2,8 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 
 # VC Theory
 # Limitations of Perceptron
-# Perceptrons
+# Nearest Neighbours
+# Automatic Differentiation (Backpropagation)
 
 
 
@@ -12,5 +13,5 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 ---
 << Previous . . .   Next >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjM3Njg4OV19
+eyJoaXN0b3J5IjpbLTE5OTU2MjAyNV19
 -->
