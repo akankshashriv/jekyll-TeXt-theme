@@ -2,7 +2,7 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 
 # Stanford Cart
 # Lighthill Report
-# Divergence of AI to ML and K
+# Divergence of AI to ML and KRR
 
 
 # References
@@ -11,5 +11,5 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 ---
 << Previous . . .   Next >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjQ3NzA5N119
+eyJoaXN0b3J5IjpbLTc0ODgzNzUyN119
 -->
