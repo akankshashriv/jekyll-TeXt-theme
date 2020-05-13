@@ -1,7 +1,7 @@
 With the advent of these questions, 1950s would see the first ever artificial neural network created. But before that, let's look at what tools we already had at hand.
 
 - MNIST
-- Torch Lib
+- Torch Library
 
 # No Free Lunch theorem
 # Random Forests
@@ -17,5 +17,5 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 ---
 << Previous . . .   Next >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM2Mjc1OV19
+eyJoaXN0b3J5IjpbLTUxMDgyODYwNV19
 -->
