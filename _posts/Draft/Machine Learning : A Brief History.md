@@ -22,9 +22,13 @@ Disclaimer: [https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy](https://e
 
 ## Index
 For those who want quick references to different algorithms.
-1. 
-2. 
-3. 
+1. Regression
+2. Logistic Regression
+3. Bayesian Regression
+4. Perceptrons
+5. Turing
+6. Neural Networks
+7. 
 
 ## References
 1. A. L. Samuel, "Some Studies in Machine Learning Using the Game of Checkers," in _IBM Journal of Research and Development_, vol. 3, no. 3, pp. 210-229, July 1959.
@@ -35,7 +39,7 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbLTIzMDY5MTkxOCwtNDc1Nzc4NDE1LC01NTMzMDEzOTYs
-MTAwNjMwNzExOCwtMjEyNjE2ODIxNCw3ODI2MDM5MiwtODMwMj
-g4NzA3XX0=
+J5IjpbLTEzMDY0NjU5NjcsLTIzMDY5MTkxOCwtNDc1Nzc4NDE1
+LC01NTMzMDEzOTYsMTAwNjMwNzExOCwtMjEyNjE2ODIxNCw3OD
+I2MDM5MiwtODMwMjg4NzA3XX0=
 -->
