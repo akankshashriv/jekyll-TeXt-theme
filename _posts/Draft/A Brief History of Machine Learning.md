@@ -9,7 +9,7 @@ This series focuses on the timeline of Machine Learning up to the decade 2010s -
 
 The idea is simple! Imagine this timeline as a graph with a root node as "Statistics". Statistics led to Regression, Bayesian ML and, over time, Deep Learning. We will traverse this graph and learn the math.
 
-The term "Machine Learning" was famously coined by [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) in 1959 when he was working on computer checkers at IBM. Although ML research had already started in late 1940s, a fully developed framework in learning theory only took shape in 1980s with Valiant's work on PAC model and reinvention of Backpropagation algorithm. So, even though there were some breakthroughs between 1950-1970, the field was quite disjointed. Since 1990s, ML emerged as a promising field with commercial applications which has fuelled the research even further.
+The term "Machine Learning" was famously coined by [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) in 1959 when he was working on computer checkers at IBM. Although ML research had already started in late 1940s, and there were some breakthroughs between 1950-70, the field was quite disjointed till 1980s. A fully developed framework of **learning theory** only took shape in 1980s with Valiant's work on PAC model and reinvention of Backpropagation algorithm. So, even though there were some breakthroughs between 1950-1970, the field was quite disjointed. Since 1990s, ML emerged as a promising field with commercial applications which has fuelled the research even further.
 
 Let's have a look decade by decade.
 
@@ -55,5 +55,5 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbMTQ3NzAyNjM0Niw5ODk2NTcxNjRdfQ==
+J5IjpbMTc5ODA5NzM4NSw5ODk2NTcxNjRdfQ==
 -->
