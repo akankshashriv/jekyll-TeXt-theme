@@ -1,7 +1,7 @@
 > ### Who is this series for?
 > Anybody interested in learning more about Artificial Intelligence and/or Machine Learning, and how the field came about to be. 
 > 
->Some parts of the posts requires some technical knowledge, specifically basic probability and calculus. If you are somebody looking for just overviews and not technical know-hows, feel free to skip those parts.
+>Some parts of the posts requires some technical knowledge, specifically basic probability, statistics and calculus. If you are somebody looking for just overviews and not technical know-hows, feel free to skip those parts.
 
 In this series of posts, I will explore the theory and applications of machine learning from a historical lens. I have often found myself intrigued by how the current state-of-the-art algorithms came to be and how the field evolved. It's a good idea to understand the evolution of a field in order to develop a solid theoretical foundation.
 
@@ -53,5 +53,5 @@ For those who want quick references to different algorithms.
 eyJwcm9wZXJ0aWVzIjoibGF5b3V0OiBhcnRpY2xlXG50aXRsZT
 ogXCJNYWNoaW5lIExlYXJuaW5nOiBBIEJyaWVmIEhpc3Rvcnlc
 Ilxuc2lkZWJhcjpcbiAgbmF2OiBsYXlvdXRzXG4iLCJoaXN0b3
-J5IjpbLTE4NzYzNzE4OTQsOTg5NjU3MTY0XX0=
+J5IjpbMTgyNTM5NjMyMSw5ODk2NTcxNjRdfQ==
 -->
