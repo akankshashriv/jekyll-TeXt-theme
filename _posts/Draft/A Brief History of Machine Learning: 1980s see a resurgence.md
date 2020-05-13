@@ -2,8 +2,11 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 
 # PAC Model
 # Decision Trees
+# Hopfield Networks or Recurrent Neural Networks
 # Backpropagation
-# Recurrent Neural Networks
+# Reinforcement Learning
+
+
 
 # References
 1. 
@@ -11,5 +14,5 @@ With the advent of these questions, 1950s would see the first ever artificial ne
 ---
 << Previous . . .   Next >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjU0NTQ2Ml19
+eyJoaXN0b3J5IjpbMzg3NzkyNDY5XX0=
 -->
